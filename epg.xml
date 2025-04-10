@@ -1,2 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="canal1"><display-name>Mi Canal IPTV</display-name></channel><programme start="20250407080000 +0000" stop="20250407090000 +0000" channel="canal1"><title lang="es">Eres mi sangre</title><desc lang="es">En el corazón de esta historia también late con fuerza el dolor silencioso y desgarrador de una madre que fue separada de su hijo y ha vivido marcada por la ausencia, el amor incondicional y la esperanza de reencontrarse con él.</desc></programme><programme start="20250407090000 +0000" stop="20250407091700 +0000" channel="canal1"><title lang="es">América noticias - Edición central</title><desc lang="es">Sinónimo de objetividad, credibilidad y experiencia, reconocidos periodistas, nos traen todas las noches la más completa información del acontecer nacional e internacional.</desc></programme><programme start="20250407091700 +0000" stop="20250407092400 +0000" channel="canal1"><title lang="es">América deportes</title><desc lang="es">Deportes El magazine deportivo más completo de la televisión paraguaya.</desc></programme><programme start="20250407092400 +0000" stop="20250407092700 +0000" channel="canal1"><title lang="es">América noticias - Edición central</title><desc lang="es">Sinónimo de objetividad, credibilidad y experiencia, reconocidos periodistas, nos traen todas las noches la más completa información del acontecer nacional e internacional.</desc></programme><programme start="20250407092700 +0000" stop="20250407093000 +0000" channel="canal1"><title lang="es">América espectáculos</title><desc lang="es">Disfruta de lo mejor del espectáculo.</desc></programme><programme start="20250407093000 +0000" stop="20250407094500 +0000" channel="canal1"><title lang="es">América noticias - Edición central</title><desc lang="es">Sinónimo de objetividad, credibilidad y experiencia, reconocidos periodistas, nos traen todas las noches la más completa información del acontecer nacional e internacional.</desc></programme><programme start="20250407094500 +0000" stop="20250407104500 +0000" channel="canal1"><title lang="es">Ocho locos</title><desc lang="es">Notas periodísticas, entrevistas, ayuda social y un podcast. ¡No te lo pierdas!</desc></programme><programme start="20250407104500 +0000" stop="20250407111500 +0000" channel="canal1"><title lang="es">Amor amargo</title><desc lang="es">Bulut es un hombre exitoso y ambicioso. Trabaja para Ferman Köklükaya, propietario de una gran empresa constructora. También está casado con la hija de Ferman, Sude. Hasta que un día, Bulut conoce a la prometedora violinista Melek.</desc></programme></tv>
+<tv>
+    <channel id="liga1max">
+        <display-name>Liga 1 Max</display-name>
+    </channel>
+    
+    <programme start="20250411080000" stop="20250411100000" channel="liga1max">
+        <title>Los Chankas vs Sport Huancayo</title>
+        <category>Primera Division</category>
+    </programme>
+    <programme start="20250412080000" stop="20250412100000" channel="liga1max">
+        <title>Juan Pablo II College vs Alianza Atlético</title>
+        <category>Primera Division</category>
+    </programme>
+    <programme start="20250412090000" stop="20250412110000" channel="liga1max">
+        <title>Cienciano vs Alianza Universidad</title>
+        <category>Primera Division</category>
+    </programme>
+    <programme start="20250413011000" stop="20250413130000" channel="liga1max">
+        <title>Sporting Cristal vs Cusco</title>
+        <category>Primera Division</category>
+    </programme>
+    <programme start="20250413131500" stop="20250413151500" channel="liga1max">
+        <title>Comerciantes Unidos vs Sport Boys</title>
+        <category>Primera Division</category>
+    </programme>
+    <programme start="20250413153000" stop="20250413173000" channel="liga1max">
+        <title>ADT vs Binacional</title>
+        <category>Primera Division</category>
+    </programme>
+    <programme start="20250414190000" stop="20250414210000" channel="liga1max">
+        <title>Deportivo Garcilaso vs Alianza Lima</title>
+        <category>Primera Division</category>
+    </programme>
+    <programme start="20250417200000" stop="20250417220000" channel="liga1max">
+        <title>Alianza Universidad vs Atlético Grau</title>
+        <category>Primera Division</category>
+    </programme>
+    <programme start="20250418150000" stop="20250418170000" channel="liga1max">
+        <title>Melgar vs Deportivo Garcilaso</title>
+        <category>Primera Division</category>
+    </programme>
+    <programme start="20250418200000" stop="20250418220000" channel="liga1max">
+        <title>Alianza Lima vs Los Chankas</title>
+        <category>Primera Division</category>
+    </programme>
+    <programme start="20250419153000" stop="20250419173000" channel="liga1max">
+        <title>Alianza Atlético vs Sporting Cristal</title>
+        <category>Primera Division</category>
+    </programme>
+    <programme start="20250419190000" stop="20250419210000" channel="liga1max">
+        <title>Cusco vs Ayacucho</title>
+        <category>Primera Division</category>
+    </programme>
+    <programme start="20250420131500" stop="20250420151500" channel="liga1max">
+        <title>UTC Cajamarca vs ADT</title>
+        <category>Primera Division</category>
+    </programme>
+    <programme start="20250420153000" stop="20250420173000" channel="liga1max">
+        <title>Sport Huancayo vs Comerciantes Unidos</title>
+        <category>Primera Division</category>
+    </programme>
+</tv>

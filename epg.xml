@@ -4,6 +4,10 @@
         <display-name>Liga 1 Max</display-name>
     </channel>
     
+    <programme start="20250411131500" stop="20250411151500" channel="liga1max">
+        <title>Ayacucho FC vs UTC Cajamarca</title>
+        <category>Primera Division - Jornada 8</category>
+    </programme>
     <programme start="20250411153000" stop="20250411173000" channel="liga1max">
         <title>Los Chankas vs Sport Huancayo</title>
         <category>Primera Division - Jornada 8</category>

@@ -4,19 +4,19 @@
         <display-name>Liga 1 Max</display-name>
     </channel>
     
-    <programme start="20250411080000" stop="20250411100000" channel="liga1max">
+    <programme start="20250411153000" stop="20250411173000" channel="liga1max">
         <title>Los Chankas vs Sport Huancayo</title>
         <category>Primera Division</category>
     </programme>
-    <programme start="20250412080000" stop="20250412100000" channel="liga1max">
+    <programme start="20250412153000" stop="20250412173000" channel="liga1max">
         <title>Juan Pablo II College vs Alianza Atlético</title>
         <category>Primera Division</category>
     </programme>
-    <programme start="20250412090000" stop="20250412110000" channel="liga1max">
+    <programme start="20250412190000" stop="20250412210000" channel="liga1max">
         <title>Cienciano vs Alianza Universidad</title>
         <category>Primera Division</category>
     </programme>
-    <programme start="20250413011000" stop="20250413130000" channel="liga1max">
+    <programme start="20250413110000" stop="20250413130000" channel="liga1max">
         <title>Sporting Cristal vs Cusco</title>
         <category>Primera Division</category>
     </programme>
